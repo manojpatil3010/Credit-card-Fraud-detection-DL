@@ -5,14 +5,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
+import tensorflow as tf
 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
 from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA 
+# from sklearn.decomposition import PCA 
 
 #Over Sampling and under sampling libraries
 ##from imblearn.over_sampling import SMOTE
