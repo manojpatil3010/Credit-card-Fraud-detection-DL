@@ -4,6 +4,6 @@ pandas
 seaborn
 numpy
 sklearn
-tensorflow 1
+tensorflow==1
 
 
