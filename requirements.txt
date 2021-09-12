@@ -4,6 +4,6 @@ pandas
 seaborn
 numpy
 sklearn
-tensorflow==1.0
+tensorflow==2.1.0
 
 
