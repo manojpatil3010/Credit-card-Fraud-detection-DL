@@ -1,1 +1,3 @@
 # Credit-card-Fraud-detection-DL
+This project is based on The Deep Learning model to detect the Credit Card fraud done by European cardholders in september 2013. We will learn Deep Learning concepts such as Artification Neural Networks,Layers,Activation Functions,Neurons. and top of that we will build Deep Learning Algorithm which mimics humain br ain We analyse data to get meaning information from them and Visualize them to recognise different patterns among them and showing meaning full information It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+
